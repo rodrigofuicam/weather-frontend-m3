@@ -20,9 +20,6 @@ ClimaSur es una aplicación web que muestra el clima actual y la predicción sem
 
 ---
 
-## Instalación
+## Link del repositorio
 
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/ClimaSur.git
-# weather-frontend-m2
+https://github.com/rodrigofuicam/weather-frontend-m2.git
