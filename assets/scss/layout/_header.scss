@@ -1,5 +1,5 @@
-@use "../abstracts/variables.scss" as *;
-@use "../abstracts/mixins.scss";
+@use "../abstracts/_variables.scss" as *;
+@use "../abstracts/_mixins.scss";
 .header {
   position: relative;
   display: flex;

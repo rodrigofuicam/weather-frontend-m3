@@ -37,5 +37,5 @@ main.scss transpila todas estas parciales hacia styles.css
 
 ## Link del repositorio
 
-https://github.com/rodrigofuicam/weather-frontend-m2.git
+https://github.com/rodrigofuicam/weather-frontend-m3
 # weather-frontend-m3
